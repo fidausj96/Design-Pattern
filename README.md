@@ -1,2 +1,2 @@
-# Design-Pattern
-All Lab will be posted here
+# Design-Pattern -week 6 - Command Pattern
+
